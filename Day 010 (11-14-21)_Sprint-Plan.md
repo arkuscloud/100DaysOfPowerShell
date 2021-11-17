@@ -5,7 +5,7 @@
 
 ##### :checkered_flag: _-_ Yesterday
 
-:point_right: _-_ Create PowerShell Function - > **WklyRetro [ 1 ]** 
+:point_right: _-_ **WklyRetro [ 1 ]** 
 
 ##### :checkered_flag: _-_ Today
 
