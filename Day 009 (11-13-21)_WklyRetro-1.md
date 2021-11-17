@@ -32,4 +32,4 @@
 
 ##### :checkered_flag: _-_ Today
 
-## :point_right: _-_ Retrospective 1 - > **WklyRetro**
+:point_right: _-_ Retrospective 1 - > **WklyRetro**
