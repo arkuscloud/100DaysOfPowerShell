@@ -4,18 +4,18 @@
 ###    #DailyScrum                   ###
 ########################################
 
-:checkered_flag:Yesterday
+:checkered_flag: _-_ Yesterday
 
 :point_right: Test 1
 
 :point_right: Test 2
 
-:checkered_flag:Today
+:checkered_flag: _-_ Today
 
 :point_right: Test 2
 
 :point_right: Test 2
 
-:construction:Roadblocks
+:construction: _-_ Roadblocks
 
 :construction_worker: None
