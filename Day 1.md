@@ -5,16 +5,16 @@
 
 ##### :checkered_flag: _-_ Yesterday
 
-:point_right: N/A
+:point_right: _-_ N/A
 
-:point_right: N/A
+:point_right: _-_ N/A
 
 ##### :checkered_flag: _-_ Today
 
-:point_right: Start-Transcript cmdlet
+:point_right: _-_ Start-Transcript cmdlet
 
-:point_right: New-AzureADUser cmdlet [AzureAD Module]
+:point_right: _-_ New-AzureADUser cmdlet [AzureAD Module]
 
 ##### :construction: _-_ Roadblocks
 
-:construction_worker: None
+:construction_worker: _-_ None
