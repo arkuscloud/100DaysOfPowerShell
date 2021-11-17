@@ -6,7 +6,7 @@
 
 :point_right: My current role is System Administrator, I prefer to solve problems. 
 
-:point_right: Software development is my way out. I know PowerShell and I want to learn C# / .NetCore development. 
+:point_right: Software development is my way out. I know some PowerShell and I will learn C# / .NetCore development. 
 
 :point_right: On the road to Full-Stack development, I will work my way from PowerShell on up. 
 
