@@ -4,8 +4,8 @@
 ###    #DailyScrum                   ###
 ########################################
 
-Yesterday
+:checkered_flag:Yesterday
 :point_right:
-Today
+:checkered_flag:Today
 
-Roadblocks
+:construction:Roadblocks
