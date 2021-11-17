@@ -18,3 +18,5 @@
 ##### :construction: _-_ Roadblocks
 
 :construction_worker: None
+
+> Specialization is the way out of Generalization
