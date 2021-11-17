@@ -23,12 +23,3 @@
 ##### What am I stuck on? :safety_pin:
 
 :speech_balloon: Which products will have the greatest impact?
-
-
-##### :checkered_flag: _-_ Yesterday
-
-:point_right: _-_ Create PowerShell Function - > **New-PseudoComputer** | **ArkShell # 4**
-
-##### :checkered_flag: _-_ Today
-
-:point_right: _-_ Retrospective 1 - > **WklyRetro**
