@@ -11,9 +11,9 @@
 
 ##### :checkered_flag: _-_ Today
 
-:point_right: Start-Transcript cmdlet
+:point_right: **Start-Transcript cmdlet**
 
-:point_right: New-AzureADUser cmdlet [AzureAD Module]
+:point_right: **New-AzureADUser cmdlet [AzureAD Module]**
 
 ##### :construction: _-_ Roadblocks
 
