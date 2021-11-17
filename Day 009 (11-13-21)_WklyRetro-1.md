@@ -24,7 +24,6 @@
 
 :speech_balloon: Which products will have the greatest impact?
 
- - 
 
 ##### :checkered_flag: _-_ Yesterday
 
