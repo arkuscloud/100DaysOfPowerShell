@@ -10,8 +10,6 @@
 
 :point_right: On the road to Full-Stack development, I will work my way from PowerShell on up. 
 
-## The Blog
+## Arkus Cloud
 
-:point_right: The home base for this operation is https://www.arkuscloud.io/. 
-
-:point_right: Daily progress can be found here https://github.com/arkuscloud/100DaysOfPowerShell. 
+:point_right: The home base for this operation :computer: [Arkus Cloud](https://www.arkuscloud.io)
