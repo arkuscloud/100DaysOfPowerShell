@@ -1,7 +1,6 @@
 # 100DaysOfCode - Day [ _ ]     
 ## 100DaysOfPowerShell - XX/XX/XX          
-## DailyScrum                   
-
+### DailyScrum                   
 
 ##### :checkered_flag: _-_ Yesterday
 
@@ -18,3 +17,9 @@
 ##### :construction: _-_ Roadblocks
 
 :construction_worker: _-_ None
+
+## Thing(s) I learned
+
+:point_right: _-_
+
+:point_right: _-_
