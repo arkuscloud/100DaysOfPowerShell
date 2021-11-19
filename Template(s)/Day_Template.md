@@ -18,7 +18,15 @@
 
 :construction_worker: _-_ None
 
-## Thing(s) I learned
+#### Thing(s) I Learned
+------
+
+:point_right: _-_
+
+:point_right: _-_
+
+#### Thing(s) I Developed
+------
 
 :point_right: _-_
 
