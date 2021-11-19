@@ -1,4 +1,4 @@
-# 100DaysOfCode - Day [ _ ]   |   100DaysOfPowerShell - XX/XX/XX          
+# :computer: 100DaysOfCode - Day [ _ ]   |   100DaysOfPowerShell - XX/XX/XX :cloud:
 
 ### DailyScrum                   
 
