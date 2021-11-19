@@ -1,5 +1,5 @@
-# 100DaysOfCode - Day [ _ ]     
-## 100DaysOfPowerShell - XX/XX/XX          
+# 100DaysOfCode - Day [ _ ]   |   100DaysOfPowerShell - XX/XX/XX          
+
 ### DailyScrum                   
 
 ##### :checkered_flag: _-_ Yesterday
